@@ -1,0 +1,11 @@
+Oppgaver
+
+John Tore:
+    - lage Debugger klasse + gui //Done-ish
+    - fikse at det kun refereres til det samme debuggervinduet //DONE
+
+Rune:
+    - Implementere resten av klassene fra bugga versjon //DONE
+
+Begge:
+    - Få spelet til å fungere bug-fritt
